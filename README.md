@@ -25,7 +25,7 @@ Nhà cung cấp dịch vụ OAuth - Trang web hoặc ứng dụng kiểm soát d
 <p> Đầu tiên là cái ứng dụng khách (client Application) sẽ yêu cầu vào tập dữ liệu người dùng để lấy ra những dữ liệu nó cần sử dụng và loại quyền truy cập nó muốn</p>
 <p> Tiếp theo Người dùng được nhắc đăng nhập vào dịch vụ OAuth và confirm  đối với quyền truy cập được yêu cầu. </p>
 <p> Ứng dụng khách (client Application) nhận được 1 cái access token duy nhất cung cấp quyền của user để truy cập những dữ liệu được yêu cầu</p>
-<p> Ứng dụng khách (client Application) <imsg src="![dsBuffer](https://user-images.githubusercontent.com/58453296/148363727-427d53eb-6c54-4d84-986e-c25490ed0e78.png)">
+<p> Ứng dụng khách (client Application) <imsg src="https://user-images.githubusercontent.com/58453296/148363727-427d53eb-6c54-4d84-986e-c25490ed0e78.png" style="width:128px;height:128px">
 sử dụng cái access token này để tìm gọi các API nạp các dữ liệu từ máy chủ </p>
 
 <h1>OAuth grant types</h1>
